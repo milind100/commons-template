@@ -24,3 +24,5 @@ https://v1.tailwindcss.com/components
 https://tailwindui.com/components/preview
 
 https://www.tailwindawesome.com/?price=free&type=template
+
+https://tailwindflex.com/
